@@ -1,0 +1,1 @@
+print("All the files got deleted sir, Thank You")
