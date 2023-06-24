@@ -1,5 +1,3 @@
-package com.ramaguru.amrita.cys.jpl.gui.swing.apps;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
