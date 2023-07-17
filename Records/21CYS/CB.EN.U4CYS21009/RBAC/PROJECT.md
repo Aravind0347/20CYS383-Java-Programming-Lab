@@ -337,17 +337,17 @@ class HomePage extends JFrame {
 ### Demo
 #### Screenshots
 
-<center><img src = "./images/1.png"></center>
-<center><img src = "./images/2.png"></center>
-<center><img src = "./images/3.png"></center>
-<center><img src = "./images/4.png"></center>
-<center><img src = "./images/5.png"></center>
-<center><img src = "./images/6.png"></center>
-<center><img src = "./images/7.png"></center>
-<center><img src = "./images/8.png"></center>
-<center><img src = "./images/9.png"></center>
-<center><img src = "./images/10.png"></center>
-<center><img src = "./images/11.png"></center>
+<center><img src = "./images/1.jpg"></center>
+<center><img src = "./images/2.jpg"></center>
+<center><img src = "./images/3.jpg"></center>
+<center><img src = "./images/4.jpg"></center>
+<center><img src = "./images/5.jpg"></center>
+<center><img src = "./images/6.jpg"></center>
+<center><img src = "./images/7.jpg"></center>
+<center><img src = "./images/8.jpg"></center>
+<center><img src = "./images/9.jpg"></center>
+<center><img src = "./images/10.jpg"></center>
+<center><img src = "./images/11.jpg"></center>
 
 #### Account with "Admin" access
 
